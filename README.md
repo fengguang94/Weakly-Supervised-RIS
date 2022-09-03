@@ -1,1 +1,1 @@
-# Weakly-Supervised-RIS
+# Weakly Supervised Referring Image Segmentation
