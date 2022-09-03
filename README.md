@@ -1,6 +1,6 @@
-# Learning from Box Annotations for Referring Image Segmentation
+# Weakly-Supervised-RIS
 
-Encoder Fusion Network with Co-Attention Embedding for Referring Image Segmentation, TNNLS
+Learning from Box Annotations for Referring Image Segmentation, TNNLS, 2022
 
 
 If you find this work useful in your research, please consider citing:
