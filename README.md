@@ -1,1 +1,1 @@
-# Weakly Supervised Referring Image Segmentation
+# Learning from Box Annotations for Referring Image Segmentation
